@@ -1,10 +1,8 @@
-# 朋友圈文案主理人 | WeChat Moments Polisher
+# 朋友圈商业文案优化器
 
 > **一句话介绍：** 面向希望经营微信私域的中文创作者、独立顾问和专业服务者，这个 Agent Skill 会结合个人背景与最多 20 条历史朋友圈，把图片、草稿或零散想法整理成自然、可信、贴近本人风格的可发布文案。
 
-**核心价值不是“多写几条”，而是让 AI 写得更像你，少一点 AI 腔，也不为凑内容硬拔高。**
-
-English: A reusable Agent Skill that turns images, drafts, and rough notes into natural Chinese WeChat Moments posts in the user's own voice, guided by personal context and up to 20 writing samples.
+**核心价值是让 AI 写得更像你，少一点AI腔。**
 
 ## 适合谁
 
